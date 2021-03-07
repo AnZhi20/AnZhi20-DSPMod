@@ -22,7 +22,7 @@ namespace ElectromagneTicturbineProject
         void Start()
         {
             var ab = AssetBundle.LoadFromStream(Assembly.GetExecutingAssembly().GetManifestResourceStream("ElectromagneTicturbineProject.electromagneticturbine"));
-            icon = ab.LoadAsset<Sprite>("electromagneticturbine");
+            icon = ab.LoadAsset<Sprite>("electromagneticturbinepng");
 
             LDBTool.PreAddDataAction += AddElectromagneTicturbine;
             LDBTool.PreAddDataAction += AddLang;
