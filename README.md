@@ -1,7 +1,7 @@
 # 简介（Brief Introduction）  
 这是一个戴森球计划MODS的源码库（当然，你可以随意的浏览它们）  
 This is a Dyson ball program mods source library. (of course, you can browse them freely)  
-## 前置工具  
+## ***前置工具***  
 下面这些是mods需要的前置文件  
 ### 一.安装BepInEx  
 下载链接：https://dsp.thunderstore.io/package/xiaoye97/BepInEx/  
@@ -17,10 +17,10 @@ This is a Dyson ball program mods source library. (of course, you can browse the
 #### 3.DowngradeDll  
 使用方法：https://github.com/BepInEx/BepInEx/issues/177  
 下载链接：上述使用方法链接中的DowngradeDll.zip  
-## MODS网站  
+## **MODS网站**  
 MODS的网站链接：https://dsp.thunderstore.io/  
-我的MODS的网站链接：https://dsp.thunderstore.io/package/AnZhi20/  
-## Front end tools  
+*我的MODS的网站链接*：https://dsp.thunderstore.io/package/AnZhi20/  
+## ***Front end tools***  
 These are the front-end files that mods needs  
 ### 一.Install BepInEx  
 Download link:https://dsp.thunderstore.io/package/xiaoye97/BepInEx/  
@@ -36,6 +36,6 @@ Download link:https://store.unity.com/download-nuo
 #### 3.DowngradeDll  
 Usage method:https://github.com/BepInEx/BepInEx/issues/177  
 Download link:In the above usage link DowngradeDll.zip  
-## Mods website  
+## **Mods website**  
 Mods website links：https://dsp.thunderstore.io/  
-My mods website links：https://dsp.thunderstore.io/package/AnZhi20/  
+*My mods website links*：https://dsp.thunderstore.io/package/AnZhi20/  
