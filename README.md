@@ -1,6 +1,6 @@
 # 简介（Brief Introduction）  
-这是一个戴森球计划MODS的源码库（当然，你可以随意的浏览它们）  
-This is a Dyson Sphere Program mods source library. (of course, you can browse them freely)  
+这是一个戴森球计划的MODS库（当然，你可以随意的浏览它们）  
+This is a mods Library of Dyson Sphere Program. (of course, you can browse them freely)  
 ## ***前置工具***  
 下面这些是mods需要的前置文件  
 ### 一.安装BepInEx  
