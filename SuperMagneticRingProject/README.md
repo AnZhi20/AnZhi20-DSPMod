@@ -4,7 +4,7 @@ Using kimberlite and classification silica can shorten your production line, so 
 ### Installation  
 1. Install BepInEx.  
 2. Install LDBTool.  
-3. Drag SuperMagneticRingProject.dll into "Dyson Sphere Program/BepInEx/plugins/".  
+3. Drag SuperMagneticRingProject.dll into "Dyson Sphere Program\BepInEx\plugins\".  
 
 ### Mod conflicts  
 Problems may arise when other mods that create new items/recipes use the following IDs:  
