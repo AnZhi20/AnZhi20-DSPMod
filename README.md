@@ -18,9 +18,10 @@ This is a Dyson Sphere Program mods source library. (of course, you can browse t
 使用方法：https://github.com/BepInEx/BepInEx/issues/177  
 下载链接：上述使用方法链接中的DowngradeDll.zip  
 #### 4.dotpeek
-下载链接：https://www.jetbrains.com/decompiler/
+下载链接：https://www.jetbrains.com/decompiler/  
 #### 5.dnspy
-下载链接：https://github.com/dnSpy/dnSpy/releases
+下载链接：https://github.com/dnSpy/dnSpy/releases  
+#### 6.AssetStudioGUI
 ## **MODS网站**  
 MODS的网站链接：https://dsp.thunderstore.io/  
 *我的MODS的网站链接*：https://dsp.thunderstore.io/package/AnZhi20/  
@@ -41,9 +42,10 @@ Download link:https://store.unity.com/download-nuo
 Usage method:https://github.com/BepInEx/BepInEx/issues/177  
 Download link:In the above usage link DowngradeDll.zip  
 #### 4.dotpeek
-Download link：https://www.jetbrains.com/decompiler/
+Download link：https://www.jetbrains.com/decompiler/  
 #### 5.dnspy
-Download link：https://github.com/dnSpy/dnSpy/releases
+Download link：https://github.com/dnSpy/dnSpy/releases  
+#### 6.AssetStudioGUI
 ## **Mods website**  
 Mods website links：https://dsp.thunderstore.io/  
 *My mods website links*：https://dsp.thunderstore.io/package/AnZhi20/  
