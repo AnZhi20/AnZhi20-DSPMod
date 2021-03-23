@@ -22,6 +22,7 @@ This is a Dyson Sphere Program mods source library. (of course, you can browse t
 #### 5.dnspy
 下载链接：https://github.com/dnSpy/dnSpy/releases  
 #### 6.AssetStudioGUI
+源码链接：https://github.com/Perfare/AssetStudio  
 ## **MODS网站**  
 MODS的网站链接：https://dsp.thunderstore.io/  
 *我的MODS的网站链接*：https://dsp.thunderstore.io/package/AnZhi20/  
@@ -46,6 +47,7 @@ Download link：https://www.jetbrains.com/decompiler/
 #### 5.dnspy
 Download link：https://github.com/dnSpy/dnSpy/releases  
 #### 6.AssetStudioGUI
+Source code link：https://github.com/Perfare/AssetStudio  
 ## **Mods website**  
 Mods website links：https://dsp.thunderstore.io/  
 *My mods website links*：https://dsp.thunderstore.io/package/AnZhi20/  
