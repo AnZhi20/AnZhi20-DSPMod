@@ -12,7 +12,7 @@ using BepInEx.Configuration;
 namespace ElectromagneTicturbineProject
 {
     [BepInDependency("me.xiaoye97.plugin.Dyson.LDBTool", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInPlugin("AnZhi.DSP.plugin.ElectromagneTicturbine", "ElectromagneTicturbine", "1.2.0")]
+    [BepInPlugin("AnZhi.DSP.plugin.ElectromagneTicturbine", "ElectromagneTicturbine", "1.3.0")]
     public class ElectromagneTicturbine : BaseUnityPlugin
     {
         private Sprite icon;
