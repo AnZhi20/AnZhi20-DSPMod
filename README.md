@@ -10,7 +10,7 @@ This is a mods Library of Dyson Sphere Program. (of course, you can browse them 
 下载链接：https://dsp.thunderstore.io/package/xiaoye97/LDBTool/  
 安装方法：打开zip，将LDBTool.dll复制到Dyson Sphere Program\BepInEx\plugins中（如果没有plugins文件夹，你可以自己在BepInEx文件夹中创建一个）  
 ### 三.MOD开发者需要的部分工具  
-#### 1.VS2019  
+#### 1.VS2022  
 下载链接：https://visualstudio.microsoft.com/zh-hans/vs/  
 #### 2.UnityHub和Unity2018.4.12  
 下载链接：https://store.unity.com/download-nuo  
